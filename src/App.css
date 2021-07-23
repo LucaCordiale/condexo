@@ -1,0 +1,10 @@
+.MuiButton-contained{
+    background-color:   rgba(55, 255, 15, 0.767) !important;
+}
+
+
+
+.MuiToolbar-root.MuiToolbar-regular.MuiToolbar-gutters{
+    background-color: rgba(255, 15, 15, 0.548); 
+}
+
